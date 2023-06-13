@@ -1,0 +1,24 @@
+{
+    "text.wc.title": "Настройки WaveyCapes",
+
+    "text.wc.setting.capestyle": "Стиль плаща",
+    "text.wc.setting.capestyle.tooltip": "Переключайтесь между плавно изгибающимся и блочный плащом.",
+    "text.wc.setting.capestyle.BLOCKY": "Блочный",
+    "text.wc.setting.capestyle.SMOOTH": "Гладкий",
+    "text.wc.setting.windmode": "Режим ветра",
+    "text.wc.setting.windmode.tooltip": "Придайте плащу дополнительную подвижность.",
+    "text.wc.setting.windmode.NONE": "Выкл",
+    "text.wc.setting.windmode.WAVES": "Волны",
+    "text.wc.setting.capemovement": "Тип движения",
+    "text.wc.setting.capemovement.tooltip": "Измените поведение плаща.",
+    "text.wc.setting.capemovement.VANILLA": "Классика",
+    "text.wc.setting.capemovement.BASIC_SIMULATION": "Симуляция",
+    "text.wc.setting.capemovement.BASIC_SIMULATION_3D": "Симуляция V2",
+    "text.wc.setting.capemovement.DUNGEONS": "Подземелья",
+    "text.wc.setting.gravity": "Сила тяжести",
+    "text.wc.setting.gravity.tooltip": "Измените величину силы тяжести, приложенной к плащу.",
+    "text.wc.setting.heightMultiplier": "Множитель высоты",
+    "text.wc.setting.heightMultiplier.tooltip": "Измените реагирование плаща на движение по оси Y.",
+
+    "_": "Этот перевод был сделан игроком VGamerGroup 12.06.2023 - в День России"
+}
